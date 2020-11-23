@@ -1,6 +1,6 @@
-# Materials Cloud - Empa TB MFH App
+# AiiDAlab - Empa TB MFH app
 
-This [Materials Cloud jupyter](https://jupyter.materialscloud.org) app provides a convenient graphical user interface (GUI) around the tight binding (TB) mean field Hubbard (MFH) library found at [https://github.com/eimrek/tb-mean-field-hubbard].The library performs TB MFH calculations on the conjugated π-networks of organic systems.
+This [Materials Cloud jupyter](https://jupyter.materialscloud.org) app provides a convenient graphical user interface (GUI) around the tight binding (TB) mean field Hubbard (MFH) library found at [https://github.com/eimrek/tb-mean-field-hubbard]().The library performs TB MFH calculations on the conjugated π-networks of organic systems.
 Only carbon atoms are supported and each atom is modelled by a single p<sub>z</sub> orbital hosting a single electron.
 
 The modelled Hamiltonian is the following:
