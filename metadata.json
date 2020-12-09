@@ -1,7 +1,8 @@
 {
     "authors": "nanotech@surfaces laboratory, Empa",
-    "description": "Tools for MFH TB, developed at the nanotech@surfaces laboratory, Empa",
+    "description": "App to run mean-field Hubbard tight-binding calculations.",
     "title": "Empa nanotech@surfaces Laboratory - MFH TB for nanographenes",
     "version": "0.1.0",
-    "logo": "miscellaneous/logos/empa.png"
+    "logo": "miscellaneous/logos/empa.png",
+    "state": "development"
 }
