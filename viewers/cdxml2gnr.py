@@ -19,7 +19,10 @@ import ase.neighborlist
 
 from sklearn import manifold, datasets
 from sklearn.decomposition import PCA
-import pybel as pb
+try:
+    from openbabel import pybel as pb
+except ImportError:
+    import pybel as pb
 
 
 
