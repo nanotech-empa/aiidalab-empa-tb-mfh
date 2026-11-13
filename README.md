@@ -9,3 +9,25 @@ The modelled Hamiltonian is the following:
 
 where c<sup>†</sup>, c and n are respectively the creation, annihiliation and number operators, t is the hopping integral and U denotes the on-site Coulomb repulsion.
 
+
+## Software attribution and scientific acknowledgements
+
+Please credit [aiidalab-empa-tb-mfh](https://github.com/nanotech-empa/aiidalab-empa-tb-mfh) and its
+[contributors](https://github.com/nanotech-empa/aiidalab-empa-tb-mfh/graphs/contributors),
+and identify the release or immutable commit used. Existing author,
+contributor and funding acknowledgements remain authoritative.
+
+Preserve the copyright and permission notices in [LICENSE.txt](LICENSE.txt)
+when copying or distributing copies or substantial portions of MIT-licensed
+code. Separately licensed components retain their own notices. A name or
+repository link does not replace the applicable licence notices.
+
+For research using AiiDAlab, acknowledge its team and cite
+[both platform papers](https://github.com/nanotech-empa/.github/blob/main/CITATION_GUIDANCE.md#aiidalab). When AiiDA workflows or
+provenance also helped the research, follow the [AiiDA citation guidance](https://github.com/nanotech-empa/.github/blob/main/CITATION_GUIDANCE.md#aiida).
+
+Retain credit to the [tb-mean-field-hubbard library](https://github.com/eimrek/tb-mean-field-hubbard) and its contributors, separately from this interface, and cite the scientific methods actually used.
+
+The [shared credit guide](https://github.com/nanotech-empa/.github/blob/main/CITATION_GUIDANCE.md) keeps software attribution, licence
+compliance and scientific citation requests separate. Scientific citation
+requests are not additional MIT licence conditions.
